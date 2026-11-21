@@ -1,0 +1,5 @@
+# Saraswati AI requires zero third-party dependencies!
+# It runs directly on Python 3.8+ standard library (http.server, urllib, sqlite3, json).
+#
+# Optional enhancements (if you want local PDF text extraction via Python):
+# pypdf>=4.0.0

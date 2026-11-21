@@ -1,0 +1,20 @@
+University Examination Board - Past 5 Years PYQs Compilation
+Subject: Operating Systems & System Architecture (CS-401)
+
+[Semester Exam 2024]
+Q1. Explain Paging hardware architecture with TLB. Derive the expression for Effective Memory Access Time (EMAT) and calculate for 95% hit ratio, TLB access time = 10ns, RAM access time = 100ns. [10 Marks]
+Q2. State the four necessary conditions for Deadlock. Explain Banker's Algorithm with a 5-process safety test. [10 Marks]
+Q3. Distinguish between Preemptive and Non-Preemptive CPU Scheduling. Draw Gantt charts for Round Robin (quantum=2ms) and Preemptive SJF. [6 Marks]
+Q4. Explain Peterson's solution for the two-process critical section problem and prove how it satisfies Mutual Exclusion and Progress. [5 Marks]
+
+[Semester Exam 2023]
+Q1. Describe the steps taken by OS when a Page Fault occurs. What is Belady's Anomaly and in which algorithm does it occur? [8 Marks]
+Q2. Explain Banker's Algorithm for deadlock avoidance with resource-request algorithm. [10 Marks]
+Q3. Compare Monolithic Kernel and Microkernel architectures with diagrams. [5 Marks]
+Q4. Solve page replacement for reference string: 7, 0, 1, 2, 0, 3, 0, 4, 2, 3 using FIFO and LRU with 3 frames. [8 Marks]
+
+[Semester Exam 2022]
+Q1. Calculate Effective Memory Access Time with 2-level paging scheme and 98% TLB hit ratio. [10 Marks]
+Q2. What is Deadlock? Prove how Dining Philosophers problem can cause deadlock and provide Semaphore solution. [10 Marks]
+Q3. Explain disk scheduling algorithms: SCAN vs LOOK with cylinder sequence. [5 Marks]
+Q4. Contrast Internal Fragmentation vs External Fragmentation. [4 Marks]
